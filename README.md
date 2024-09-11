@@ -6,7 +6,7 @@ An IR Remote built for Panasonic AC using ESP8266.
 
 ## **Introduction**
 
-Project Title is a project that does something useful. It was created to solve a particular problem, and it provides a solution that is better than the alternatives.
+PanasonicIr is a project that can mimic an actual AC remote. It is capable of chnaging temperature, wing speed, set timer and other various parameters. It provides an easier cost effective solution that is better than any alternatives.
 
 ## **Installation**
 
