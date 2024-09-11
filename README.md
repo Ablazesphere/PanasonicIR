@@ -54,6 +54,11 @@ To make the circuit connection for sending IR signals, follow these circuit diag
 <img src="./images/send.png" alt="5" width = 500px height = 500px>
 <br>
 
+## **Pictures**
+
+![IMG_9589](https://github.com/user-attachments/assets/954b9704-07cc-451b-bc15-bf320e5395e3)
+
+
 ## **Usage**
 
 To use PanasonicIR, follow these steps:
