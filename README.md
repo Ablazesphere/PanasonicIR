@@ -1,8 +1,8 @@
 # **Hello.**
 
-## **Project Title**
+## **PanasonicIR**
 
-Project Title is a description of the project and its purpose.
+An IR Remote built for Panasonic AC using ESP8266.
 
 ## **Introduction**
 
