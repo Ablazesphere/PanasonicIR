@@ -1,6 +1,4 @@
-# **Hello.**
-
-## **PanasonicIR**
+# **PanasonicIR**
 
 An IR Remote built for Panasonic AC using ESP8266.
 
