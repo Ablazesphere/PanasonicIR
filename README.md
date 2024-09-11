@@ -84,11 +84,7 @@ If you'd like to contribute to PanasonicIR, here are some guidelines:
 8. Submit a pull request.
 
 
-## **Authors and References**
-
-PanasonicIR was created by **[M Shoaib](https://github.com/Ablazesphere)**.
-
-References:
+## **References**
 
 - **[crankyoldgit](https://github.com/crankyoldgit/IRremoteESP8266.git)**
 
