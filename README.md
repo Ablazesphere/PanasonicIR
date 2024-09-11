@@ -48,6 +48,8 @@ To make the circuit connection for receiving IR signals, follow these circuit di
 
 To make the circuit connection for sending IR signals, follow these circuit diagrams:
 <br>
+<br>
+<br>
 <img src="./images/send.png" alt="5" width = 500px height = 500px>
 <br>
 
