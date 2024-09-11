@@ -6,11 +6,27 @@ An IR Remote built for Panasonic AC using ESP8266.
 
 PanasonicIR is a project that can mimic an actual Panasonic AC remote. It is capable of changing temperature, vertical/horizontal wing speed, timer and other various parameters. It provides an easier cost effective solution that is better than any alternatives.
 
+## **Components Required**
+
+<table>
+  <tr>
+    <td> <img src="img1.png"  alt="1" width = 360px height = 640px ></td>
+
+    <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
+   </tr> 
+   <tr>
+      <td><img src="./Scshot/cab_arrived.png" alt="3" width = 360px height = 640px></td>
+
+      <td><img src="./Scshot/trip_end.png" align="right" alt="4" width = 360px height = 640px>
+  </td>
+  </tr>
+</table>
+
 ## **Installation**
 
-To install Project Title, follow these steps:
+To install PanasonicIR, follow these steps:
 
-1. Clone the repository: **`git clone https://github.com/username/project-title.git`**
+1. Head over to this repository and download their latest release: **`https://github.com/crankyoldgit/IRremoteESP8266.git`**
 2. Navigate to the project directory: **`cd project-title`**
 3. Install dependencies: **`npm install`**
 4. Build the project: **`npm run build`**
