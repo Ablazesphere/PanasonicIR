@@ -30,7 +30,7 @@ PanasonicIR is a project that can mimic an actual Panasonic AC remote. It is cap
     <td><img src="./images/LED.jpg" alt="4" width = 250px height = 250px></td>
   </tr>
   <tr>
-    <td>SM0038</td>
+    <td>SM0038 IR Reciever</td>
     <td><img src="./images/SM0038.jpg" alt="5" width = 250px height = 250px></td>
   </tr>
   <tr>
