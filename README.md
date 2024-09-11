@@ -14,12 +14,16 @@ PanasonicIR is a project that can mimic an actual Panasonic AC remote. It is cap
     <th><b>Image</b></th>
   </tr>
   <tr>
-    <td>ESP8266 borad</td>
+    <td>ESP8266 Wifi Development Board</td>
     <td> <img src="./images/ESP8266.jpg"  alt="1" width = 250px height = 250px ></td>
   </tr> 
   <tr>
     <td>2N304 Transistor</td>
     <td><img src="./images/2N3904.jpg" alt="2" width = 250px height = 250px></td>
+  </tr>
+  <tr>
+    <td>Jumper Cables</td>
+    <td><img src="./images/Jumper.jpg" alt="2" width = 250px height = 250px></td>
   </tr>
 </table>
 
