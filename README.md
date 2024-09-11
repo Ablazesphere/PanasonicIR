@@ -43,6 +43,7 @@ PanasonicIR is a project that can mimic an actual Panasonic AC remote. It is cap
 
 To make the circuit connection for receiving IR signals, follow these circuit diagrams:
 <br>
+<br>
 <img src="./images/recieve.jpg" alt="5" width = 500px height = 500px>
 <br>
 
