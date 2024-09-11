@@ -39,15 +39,12 @@ PanasonicIR is a project that can mimic an actual Panasonic AC remote. It is cap
   </tr>
 </table>
 
-## **Installation**
+## **Circuit Diagram and Connection**
 
-To install PanasonicIR, follow these steps:
+To make the circuit connection for receiving IR signals, follow these circuit diagrams:
+<br>
+<img src="./images/recieve.jpg" alt="5" width = 500px height = 500px>
 
-1. Head over to this repository and download their latest release: **`https://github.com/crankyoldgit/IRremoteESP8266.git`**
-2. Navigate to the project directory: **`cd project-title`**
-3. Install dependencies: **`npm install`**
-4. Build the project: **`npm run build`**
-5. Start the project: **`npm start`**
 
 ## **Usage**
 
