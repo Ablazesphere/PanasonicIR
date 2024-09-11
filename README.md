@@ -56,12 +56,12 @@ To make the circuit connection for sending IR signals, follow these circuit diag
 
 ## **Usage**
 
-To use Project Title, follow these steps:
+To use PanasonicIR, follow these steps:
 
-1. Open the project in your favorite code editor.
-2. Modify the source code to fit your needs.
-3. Build the project: **`npm run build`**
-4. Start the project: **`npm start`**
+1. Head over to this repository and download their latest release: **`https://github.com/crankyoldgit/IRremoteESP8266.git`**.
+2. Open Arduino IDE.
+3. Go to Sketch > Include Library > Add .ZIP Library and select the downloaded lastest release ZIP file.
+4. Clone this repository and open it in your Arduino IDE: **``**
 5. Use the project as desired.
 
 ## **Contributing**
